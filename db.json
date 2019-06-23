@@ -1,0 +1,925 @@
+{
+"code": "0",
+    "error": "No error",
+    "data": [
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-18 17:37:43",
+            "source": "lease",
+            "data": "Device=Toshiba status=0 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-18 08:51:58",
+            "source": "lease",
+            "data": "Device=Toshiba status=1 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#006400"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-17 17:36:07",
+            "source": "lease",
+            "data": "Device=Toshiba status=0 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-17 09:33:22",
+            "source": "lease",
+            "data": "Device=Toshiba status=1 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#006400"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-14 14:15:11",
+            "source": "lease",
+            "data": "Device=Toshiba status=0 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-14 12:24:39",
+            "source": "lease",
+            "data": "Device=Toshiba status=1 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#006400"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-13 16:33:09",
+            "source": "lease",
+            "data": "Device=Toshiba status=0 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-13 09:51:35",
+            "source": "lease",
+            "data": "Device=Toshiba status=1 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#006400"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-12 16:38:19",
+            "source": "lease",
+            "data": "Device=Toshiba status=0 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-12 15:41:36",
+            "source": "lease",
+            "data": "Device=Honor status=0 mac=7C:76:68:BB:76:BA hostname=Honor_9_Lite-5b9febe38c26",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-12 15:21:33",
+            "source": "lease",
+            "data": "Device=Honor status=1 mac=7C:76:68:BB:76:BA hostname=Honor_9_Lite-5b9febe38c26",
+            "color": "#006400"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-12 15:21:32",
+            "source": "lease",
+            "data": "Device=Honor status=0 mac=7C:76:68:BB:76:BA hostname=Honor_9_Lite-5b9febe38c26",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-12 15:15:18",
+            "source": "lease",
+            "data": "Device=comment status=1 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#006400"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-12 15:14:05",
+            "source": "lease",
+            "data": "Device=comment status=0 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-12 15:12:35",
+            "source": "lease",
+            "data": "Device=comment status=1 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#006400"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-12 15:11:43",
+            "source": "lease",
+            "data": "Device=comment status=0 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-12 15:11:41",
+            "source": "lease",
+            "data": "Device=comment status=0 mac=7C:76:68:BB:76:BA hostname=Honor_9_Lite-5b9febe38c26",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-12 15:08:53",
+            "source": "lease",
+            "data": "Device=comment status=1 mac=7C:76:68:BB:76:BA hostname=Honor_9_Lite-5b9febe38c26",
+            "color": "#006400"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-12 15:04:32",
+            "source": "lease",
+            "data": "Device=comment status=1 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#006400"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-12 15:04:02",
+            "source": "lease",
+            "data": "Device=comment status=0 mac=B8:6B:23:95:98:84 hostname=DESK",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "B4A00A97EBDF",
+            "name": "hAP",
+            "identity": "MikroTik",
+            "timestamp": "2019-04-21 21:41:52",
+            "source": "lease",
+            "data": "Device=04:03:D6:00:68:E4 lease status=0 hostname=Nintendo 3DS",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "AcherioPad Me status=1 mac=34:A3:95:E9:AD:56 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "AcherioPad Me status=1 mac=34:A3:95:E9:AD:56 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-8 20:47:23",
+            "source": "lease",
+            "data": "Device=90:2B:D2:AC:32:F3 lease status=1 hostname=HUAWEI_P20_Pro-def275f208",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-8 16:46:05",
+            "source": "lease",
+            "data": "Device=DC:72:9B:01:7E:F8 lease status=1 hostname=HUAWEI_P20_Pro-fa29cb0842",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": null,
+            "source": "lease",
+            "data": "hhhhh",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05T00:00:00",
+            "source": "lease",
+            "data": "hhhhh",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05T00:00:00",
+            "source": "lease",
+            "data": "iPadTMeTstatus;1Tmac;34:A3:95:E9:AD:54Thostname;iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05T00:00:00",
+            "source": "lease",
+            "data": "iPadTMeTstatus=1Tmac=34:A3:95:E9:AD:54Thostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-7 16:31:20",
+            "source": "lease",
+            "data": "Device=B8:6B:23:95:98:84 lease status=0 hostname=DESK",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-5 16:50:26",
+            "source": "lease",
+            "data": "Device=B8:6B:23:95:98:84 lease status=0 hostname=DESK",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-5 16:50:26",
+            "source": "lease",
+            "data": "Device=B8:6B:23:95:98:84 lease status=1 hostname=DESK",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-7 14:42:37",
+            "source": "lease",
+            "data": "Device=7C:76:68:BB:76:BA lease status=0 hostname=Honor_9_Lite-5b9febe38c26",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-7 14:33:02",
+            "source": "lease",
+            "data": "Device=7C:76:68:BB:76:BA lease status=1 hostname=Honor_9_Lite-5b9febe38c26",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-7 14:32:22",
+            "source": "lease",
+            "data": "Device=7C:76:68:BB:76:BA lease status=0 hostname=Honor_9_Lite-5b9febe38c26",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "AcherioPad Me status=1 mac=34:A3:95:E9:AD:56 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "AcherioPad Me status=1 mac=34:A3:95:E9:AD:56 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "AcherioPad Me status=1 mac=34:A3:95:E9:AD:56 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "AcherioPad Me status=1 mac=34:A3:95:E9:AD:56 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "AcherioPad Me status=1 mac=34:A3:95:E9:AD:56 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "AAAioPad Me status=1 mac=34:A3:95:E9:AD:56 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 00:00:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 12:34:56",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 12:34:56",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "AAAioPad Me status=1 mac=34:A3:95:E9:AD:56 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "ioPad Me status=1 mac=34:A3:95:E9:AD:56 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "ioPad Me status=1 mac=34:A3:95:E9:AD:56 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "ioPad Me status=1 mac=34:A3:95:E9:AD:56 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "ioPad Me status=1 mac=34:A3:95:E9:AD:56 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "ioPad Me status=1 mac=34:A3:95:E9:AD:55 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "ioPad Me status=1 mac=34:A3:95:E9:AD:55 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "ioPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "ioPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "ioPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2021-06-05 23:45:67",
+            "source": "lease",
+            "data": "ioPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2020-06-05 23:45:67",
+            "source": "lease",
+            "data": "ioPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 23:45:67",
+            "source": "lease",
+            "data": "ioPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#7CFC00"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 23:45:67",
+            "source": "lease",
+            "data": "ioPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 23:45:67",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 23:45:67",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 23:45:67",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 23:45:67",
+            "source": "lease",
+            "data": "3iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 23:45:67",
+            "source": "lease",
+            "data": "21iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 23:45:67",
+            "source": "lease",
+            "data": "1iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 23:45:67",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 23:45:67",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 12:34:00",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 12:34:56",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 12:34:56",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 12:34:56",
+            "source": "hotspot",
+            "data": "DC:EF:CA:F8:A6:F5 disconnected with DC:EF:CA:F8:A6:F5 after108secs",
+            "color": "#87CEFA"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 12:34:56",
+            "source": "hotspot",
+            "data": "DC:EF:CA:F8:A6:F5 disconnected with DC:EF:CA:F8:A6:F5 after108secs",
+            "color": "#87CEFA"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 12:34:56",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 12:34:56",
+            "source": "hotspot",
+            "data": "DC:EF:CA:F8:A6:F5 disconnected with DC:EF:CA:F8:A6:F5 after108secs",
+            "color": "#87CEFA"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 12:34:56",
+            "source": "hotspot",
+            "data": "DC:EF:CA:F8:A6:F5 disconnected with DC:EF:CA:F8:A6:F5 after108secs",
+            "color": "#87CEFA"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 12:34:56",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 12:34:56",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        },
+        {
+            "device": "45E402E9E04E",
+            "name": "Hisham_Brownie",
+            "identity": "MikroTik",
+            "timestamp": "2019-06-05 12:34:56",
+            "source": "lease",
+            "data": "iPad Me status=1 mac=34:A3:95:E9:AD:54 hostname=iPad-me",
+            "color": "#006400"
+        }
+    ],
+    "info": ""
+}
